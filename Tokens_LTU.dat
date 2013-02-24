@@ -1,0 +1,1417 @@
+��l�a�n�g�u�a�g�e�_�n�a�m�e�,�L�i�t�h�u�a�n�i�a�n� �+� �E�n�g�l�i�s�h�
+�
+�-�-�-�
+�
+�M�a�i�n�M�e�n�u�S�c�r�e�e�n�:�
+�
+�m�a�i�n�_�m�e�n�u�_�c�o�n�t�i�n�u�e�,�T�ę�s�t�i� �Ž�a�i�d�i�m�ą�
+�
+�m�a�i�n�_�m�e�n�u�_�l�o�a�d�_�g�a�m�e�,�L�o�a�d� �Ž�a�i�d�i�m�ą�
+�
+�m�a�i�n�_�m�e�n�u�_�n�e�w�_�g�a�m�e�,�N�a�u�j�a�s� �Ž�a�i�d�i�m�a�s�
+�
+�m�a�i�n�_�m�e�n�u�_�q�u�i�t�_�g�a�m�e�,�I�š�e�i�t�i� �I�š� �Ž�a�i�d�i�m�o�
+�
+�L�o�a�d�S�c�r�e�e�n�:�
+�
+�l�o�a�d�_�m�e�n�u�_�n�a�m�e�,�V�a�r�d�a�s�
+�
+�l�o�a�d�_�m�e�n�u�_�b�a�d�g�e�s�,�Ž�e�n�k�l�i�u�k�a�i�
+�
+�l�o�a�d�_�m�e�n�u�_�l�o�c�a�t�i�o�n�,�V�i�e�t�a�
+�
+�l�o�a�d�_�m�e�n�u�_�t�i�m�e�,�L�a�i�k�a�s�
+�
+�l�o�a�d�_�m�e�n�u�_�b�a�c�k�,�J�u�o�d�a�
+�
+�l�o�a�d�_�m�e�n�u�_�l�o�a�d�,�K�r�a�u�n�a
+�
+�l�o�a�d�_�m�e�n�u�_�d�e�l�e�t�e�,�I�š�t�r�i�n�t�i�
+�
+�D�e�l�e�t�e�S�c�r�e�e�n�:�
+�
+�d�e�l�e�t�e�_�m�e�n�u�_�d�e�l�e�t�e�_�c�o�n�f�i�r�m�,�D�o� �y�o�u� �r�e�a�l�l�y� �w�a�n�t� �t�o� �d�e�l�e�t�e� �t�h�e� �s�a�v�e�
+�
+�d�e�l�e�t�e�_�m�e�n�u�_�d�e�l�e�t�e�,�D�e�l�e�t�e�
+�
+�d�e�l�e�t�e�_�m�e�n�u�_�c�a�n�c�e�l�,�C�a�n�c�e�l�
+�
+�L�a�n�g�u�a�g�e�S�c�r�e�e�n�:�
+�
+�l�a�n�g�u�a�g�e�_�m�e�n�u�_�a�p�p�l�y�,�A�p�p�l�y�
+�
+�l�a�n�g�u�a�g�e�_�m�e�n�u�_�b�a�c�k�,�B�a�c�k�
+�
+�P�a�c�k�s�S�c�r�e�e�n�:�
+�
+�p�a�c�k�_�m�e�n�u�_�u�p�,�U�p�
+�
+�p�a�c�k�_�m�e�n�u�_�d�o�w�n�,�D�o�w�n�
+�
+�p�a�c�k�_�m�e�n�u�_�t�o�g�g�l�e�_�o�n�,�E�n�a�b�l�e�
+�
+�p�a�c�k�_�m�e�n�u�_�t�o�g�g�l�e�_�o�f�f�,�D�i�s�a�b�l�e�
+�
+�-�-�-�
+�
+�P�a�u�s�e�s�c�r�e�e�n�:�
+�
+�p�a�u�s�e�_�m�e�n�u�_�t�i�t�l�e�,�G�a�m�e� �m�e�n�u�
+�
+�p�a�u�s�e�_�m�e�n�u�_�b�a�c�k�_�t�o�_�g�a�m�e�,�B�a�c�k� �t�o� �g�a�m�e�
+�
+�p�a�u�s�e�_�m�e�n�u�_�d�i�s�c�o�n�n�e�c�t�,�D�i�s�c�o�n�n�e�c�t�
+�
+�p�a�u�s�e�_�m�e�n�u�_�q�u�i�t�_�t�o�_�m�e�n�u�,�Q�u�i�t� �t�o� �m�e�n�u�
+�
+�p�a�u�s�e�_�m�e�n�u�_�a�u�t�o�s�a�v�e�_�f�a�i�l�,�C�a�n�n�o�t� �c�r�e�a�t�e� �a�u�t�o�s�a�v�e�.�
+�
+�-�-�-�
+�
+�I�n�g�a�m�e�M�e�n�u�:�
+�
+�g�a�m�e�_�m�e�n�u�_�p�o�k�e�d�e�x�,�P�o�k���d�e�x�
+�
+�g�a�m�e�_�m�e�n�u�_�p�a�r�t�y�,�P�o�k���m�o�n�
+�
+�g�a�m�e�_�m�e�n�u�_�b�a�g�,�B�a�g�
+�
+�g�a�m�e�_�m�e�n�u�_�t�r�a�i�n�e�r�_�c�a�r�d�,�<�p�l�a�y�e�r�n�a�m�e�>�
+�
+�g�a�m�e�_�m�e�n�u�_�s�a�v�e�,�S�a�v�e�
+�
+�g�a�m�e�_�m�e�n�u�_�o�p�t�i�o�n�s�,�O�p�t�i�o�n�s�
+�
+�g�a�m�e�_�m�e�n�u�_�e�x�i�t�,�E�x�i�t� �M�e�n�u�
+�
+�-�-�-�
+�
+�I�n�v�e�n�t�o�r�y�S�c�r�e�e�n�:�
+�
+�i�n�v�e�n�t�o�r�y�_�m�e�n�u�_�b�a�g�,�B�a�g�
+�
+�i�n�v�e�n�t�o�r�y�_�m�e�n�u�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�i�n�v�e�n�t�o�r�y�_�m�e�n�u�_�i�t�e�m�s�,�I�t�e�m�s�
+�
+�i�n�v�e�n�t�o�r�y�_�m�e�n�u�_�d�e�s�c�r�i�p�t�i�o�n�,�D�e�s�c�r�i�p�t�i�o�n�
+�
+�-�-�-�
+�
+�N�e�w�G�a�m�e�S�c�r�e�e�n�:�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�1�,�H�e�l�l�o�!�~�S�o�r�r�y� �t�o� �k�e�e�p�~�y�o�u� �w�a�i�t�i�n�g�!�*�W�e�l�c�o�m�e� �t�o� �t�h�e� �w�o�r�l�d�~�o�f� �P�o�k���m�o�n�!�*�M�y� �n�a�m�e� �i�s� �O�a�k�.�~�P�e�o�p�l�e� �c�a�l�l� �m�e�~�P�o�k���m�o�n� �P�r�o�f�.�*�T�h�i�s� �w�o�r�l�d� �i�s� �i�n�h�a�b�i�t�e�d�~�b�y� �c�r�e�a�t�u�r�e�s� �t�h�a�t�~�w�e� �c�a�l�l�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�2�,�P�o�k���m�o�n�.�*�P�e�o�p�l�e� �a�n�d� �P�o�k���m�o�n� �l�i�v�e�~�t�o�g�e�t�h�e�r� �b�y� �s�u�p�p�o�r�t�i�n�g�~�e�a�c�h� �o�t�h�e�r�.�~�S�o�m�e� �p�e�o�p�l�e� �p�l�a�y� �w�i�t�h�~�P�o�k���m�o�n�,�~�s�o�m�e� �b�a�t�t�l�e� �w�i�t�h� �t�h�e�m�.�*�B�u�t� �w�e� �d�o�n�'�t� �k�n�o�w�~�e�v�e�r�y�t�h�i�n�g� �a�b�o�u�t�~�P�o�k���m�o�n� �y�e�t�.�~�T�h�e�r�e� �a�r�e� �s�t�i�l�l� �m�a�n�y�~�m�y�s�t�e�r�i�e�s� �t�o� �s�o�l�v�e�.�*�T�h�a�t�'�s� �w�h�y� �I� �s�t�u�d�y�~�P�o�k���m�o�n� �e�v�e�r�y� �d�a�y�.�*�N�o�w�,� �w�h�a�t� �d�i�d� �y�o�u�~�s�a�y� �y�o�u�r� �n�a�m�e� �w�a�s�?�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�3�,�~�a�r�e� �y�o�u� �r�e�a�d�y�?�*�Y�o�u�r� �v�e�r�y� �o�w�n�~�P�o�k���m�o�n� �s�t�o�r�y� �i�s� �a�b�o�u�t�~�t�o� �u�n�f�o�l�d�.�*�Y�o�u�'�l�l� �f�a�c�e� �f�u�n�~�t�i�m�e�s� �a�n�d� �t�o�u�g�h�~�c�h�a�l�l�e�n�g�e�s�.�~�A� �w�o�r�l�d� �o�f� �d�r�e�a�m�s� �a�n�d�~�a�d�v�e�n�t�u�r�e�s� �w�i�t�h� �P�o�k���m�o�n�~�a�w�a�i�t�s�!�*�L�e�t�'�s� �g�o�!�*�I�'�l�l� �b�e� �s�e�e�i�n�g�~�y�o�u� �l�a�t�e�r�!�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�w�e�i�r�d�_�n�a�m�e�_�1�,�R�i�g�h�t�!� �S�o� �y�o�u�r� �n�a�m�e� �i�s�~�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�w�e�i�r�d�_�n�a�m�e�_�2�,�!�*�H�m� �t�h�a�t� �i�s� �a�~�w�e�i�r�d� �n�a�m�e�.�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�k�n�o�w�n�_�n�a�m�e�_�1�,�R�i�g�h�t�!� �S�o� �y�o�u�r� �n�a�m�e� �i�s�~�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�k�n�o�w�n�_�n�a�m�e�_�2�,�!�*�H�m� �I� �a�m� �s�u�r�e� �I�~�h�e�a�r�d� �t�h�i�s� �n�a�m�e� �b�e�f�o�r�e�.�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�s�a�m�e�_�n�a�m�e�_�1�,�H�e�y� �w�e� �g�o�t� �t�h�e�~�s�a�m�e� �n�a�m�e�s�.�*�M�y� �n�a�m�e� �i�s� �a�l�s�o�~�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�s�a�m�e�_�n�a�m�e�_�2�,�!�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�n�a�m�e�_�1�,�R�i�g�h�t�!� �S�o� �y�o�u�r� �n�a�m�e� �i�s�~�
+�
+�n�e�w�_�g�a�m�e�_�o�a�k�_�n�a�m�e�_�2�,�!�
+�
+�n�e�w�_�g�a�m�e�_�y�o�u�r�_�n�a�m�e�,�Y�o�u�r� �n�a�m�e�
+�
+�n�e�w�_�g�a�m�e�_�c�h�o�o�s�e�_�s�k�i�n�,�C�h�o�o�s�e� �s�k�i�n�
+�
+�n�e�w�_�g�a�m�e�_�n�a�m�e�_�t�o�o�_�s�h�o�r�t�,�T�h�i�s� �n�a�m�e� �i�s� �t�o�o� �s�h�o�r�t�
+�
+�-�-�-�
+�
+�M�a�p�S�c�r�e�e�n�:�
+�
+�m�a�p�_�s�c�r�e�e�n�_�c�i�t�i�e�s�,�M�i�e�s�t�a�i�
+�
+�m�a�p�_�s�c�r�e�e�n�_�r�o�u�t�e�s�,�K�e�l�i�a�i�
+�
+�m�a�p�_�s�c�r�e�e�n�_�p�l�a�c�e�s�,�V�i�e�t�o�s�
+�
+�-�-�-�
+�
+�P�o�k�e�d�e�x�S�c�r�e�e�n�:�
+�
+�p�o�k�e�d�e�x�_�s�c�r�e�e�n�_�s�e�e�n�,�M�a�t�y�t�a�s�
+�
+�p�o�k�e�d�e�x�_�s�c�r�e�e�n�_�o�b�t�a�i�n�e�d�,�U�ž�f�i�k�s�u�o�t�a�s�
+�
+�p�o�k�e�d�e�x�_�s�c�r�e�e�n�_�r�a�r�e�,�R�a�r�e�
+�
+�p�o�k�e�d�e�x�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�-�-�-�
+�
+�P�o�k�e�m�o�n�S�c�r�e�e�n�:�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�c�h�o�o�s�e�_�a�_�p�o�k�e�m�o�n�,�C�h�o�o�s�e� �a� �P�o�k���m�o�n�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�i�t�e�m�_�g�i�v�e�,�G�i�v�e�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�i�t�e�m�_�t�a�k�e�,�A�t�g�a�u�t�i�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�i�t�e�m�_�b�a�c�k�,�J�u�o�d�a�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�d�o�e�s�n�t�_�h�o�l�d�_�i�t�e�m�,�~�d�o�e�s�n�'�t� �h�o�l�d� �a�n� �i�t�e�m�.�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�t�a�k�e�_�i�t�e�m�_�1�,�T�o�o�k� �
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�t�a�k�e�_�i�t�e�m�_�2�,� �f�r�o�m�~�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�t�a�k�e�_�i�t�e�m�_�3�,�~�a�n�d� �p�u�t� �i�t� �i�n�t�o� �t�h�e�~�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�t�a�k�e�_�i�t�e�m�_�4�,� �p�o�c�k�e�t�!�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�g�i�v�e�_�i�t�e�m�_�1�,�G�a�v�e� �
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�g�i�v�e�_�i�t�e�m�_�2�,� �t�o�~�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�g�i�v�e�_�i�t�e�m�_�3�,�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�g�i�v�e�_�i�t�e�m�_�4�,�~�a�n�d� �p�u�t� �
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�g�i�v�e�_�i�t�e�m�_�5�,�~�b�a�c�k� �t�o� �t�h�e� �i�n�v�e�n�t�o�r�y�.�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�s�u�m�m�a�r�y�,�S�u�m�m�a�r�y�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�s�w�i�t�c�h�,�P�a�k�e�i�s�t�i
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�i�t�e�m�,�D�a�i�k�t�a�s�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�b�a�c�k�,�J�u�o�d�a�
+�
+�p�o�k�e�m�o�n�_�s�c�r�e�e�n�_�E�M�P�T�Y�,�T�U�Š�Č�I�A�
+�
+�-�-�-�
+�
+�P�o�k�e�m�o�n� �S�t�a�t�u�s� �S�c�r�e�e�n�:�
+�
+�A�l�l� �p�a�g�e�s�:�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�n�a�t�u�r�e�,�N�a�t�u�r�e�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�c�l�o�s�e�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �C�L�O�S�E�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�n�u�m�b�e�r�,�#� �
+�
+�P�a�g�e� �1�:�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�a�l�l�_�e�x�p�,�A�l�l� �E�x�p�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�n�x�t�_�l�v�,�N�x�t� �L�v�.�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�s�t�a�t�s�_�p�a�g�e�,�S�t�a�t�s� �p�a�g�e�
+�
+�P�a�g�e� �2�:�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�O�T�,�O�T�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�I�t�e�m�,�I�t�e�m�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�n�o�_�i�t�e�m�,�n�o� �i�t�e�m�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�a�b�i�l�i�t�y�,�A�b�i�l�i�t�y�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�d�e�t�a�i�l�s�_�p�a�g�e�,�D�e�t�a�i�l�s� �p�a�g�e�
+�
+�P�a�g�e� �3�:�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�p�o�w�e�r�,�P�o�w�e�r�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�a�c�c�u�r�a�c�y�,�A�c�c�u�r�a�c�y�
+�
+�p�o�k�e�_�s�t�a�t�u�s�_�s�c�r�e�e�n�_�m�o�v�e�s�_�p�a�g�e�,�M�o�v�e�s� �p�a�g�e�
+�
+�-�-�-�
+�
+�T�r�a�i�n�e�r� �C�a�r�d� �S�c�r�e�e�n�:�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�t�r�a�i�n�e�r�_�c�a�r�d�,�T�r�a�i�n�e�r� �C�a�r�d�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�n�a�m�e�,�N�a�m�e�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�p�o�i�n�t�s�,�P�o�i�n�t�s�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�m�o�n�e�y�,�M�o�n�e�y�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�p�o�k�e�d�e�x�,�P�o�k���d�e�x�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�t�i�m�e�,�T�i�m�e�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�c�o�l�l�e�c�t�e�d�_�b�a�d�g�e�s�,�C�o�l�l�e�c�t�e�d� �b�a�d�g�e�s�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�b�a�d�g�e�,�b�a�d�g�e�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�t�r�a�i�n�e�r�_�s�c�r�e�e�n�_�e�m�p�t�y�_�b�a�d�g�e�,�?�?�?�
+�
+�-�-�-�
+�
+�S�a�v�e� �S�c�r�e�e�n�:�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�t�i�t�l�e�,�D�o� �y�o�u� �w�a�n�t� �t�o� �s�a�v�e� �t�h�e� �g�a�m�e�?�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�n�a�m�e�,�N�a�m�e�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�b�a�d�g�e�s�,�B�a�d�g�e�s�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�m�o�n�e�y�,�M�o�n�e�y�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�t�i�m�e�,�T�i�m�e�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�y�e�s�,�Y�e�s�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�n�o�,�N�o�
+�
+�s�a�v�e�_�s�c�r�e�e�n�_�s�u�c�c�e�s�s�,�S�a�v�e�d� �t�h�e� �g�a�m�e�.�
+�
+�-�-�-�
+�
+�O�p�t�i�o�n�s� �S�c�r�e�e�n�:�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�t�i�t�l�e�,�O�p�t�i�o�n�s�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�w�a�r�n�i�n�g�,�O�p�t�i�o�n�s� �a�r�e�n�'�t� �s�a�v�e�d� �y�e�t�,� �s�c�r�o�l�l� �d�o�w�n� �a�n�d� �c�h�o�o�s�e� �"�S�a�v�e� �o�p�t�i�o�n�s�.�"�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�d�e�s�c�r�i�p�t�i�o�n�,�D�e�s�c�r�i�p�t�i�o�n�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�t�e�x�t�s�p�e�e�d�,�T�e�x�t�s�p�e�e�d�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�t�e�x�t�s�p�e�e�d�_�d�e�s�c�r�i�p�t�i�o�n�,�T�h�e� �s�p�e�e�d� �t�h�e� �t�e�x�t�b�o�x� �s�h�o�w�s� �u�p� �a�n�d�~�d�i�s�p�l�a�y�s� �t�h�e� �t�e�x�t�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�f�o�v�,�F�O�V�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�f�o�v�_�d�e�s�c�r�i�p�t�i�o�n�,�T�h�e� �f�i�e�l�d� �o�f� �v�i�e�w�.� �T�h�e� �h�i�g�h�e�r� �t�h�e� �v�a�l�u�e� �i�s�,�~�t�h�e� �m�o�r�e� �y�o�u� �c�a�n� �s�e�e�.�~�W�a�r�n�i�n�g�:� �T�o�o� �l�a�r�g�e� �v�a�l�u�e� �c�a�n� �c�a�u�s�e� �l�a�g�s� �i�n� �l�a�r�g�e�r� �m�a�p�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�m�o�u�s�e�s�p�e�e�d�,�M�o�u�s�e�S�p�e�e�d�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�m�o�u�s�e�s�p�e�e�d�_�d�e�s�c�r�i�p�t�i�o�n�,�T�h�e� �M�o�u�s�e�s�p�e�e�d� �s�e�t�s� �t�h�e� �s�p�e�e�d� �o�n� �w�h�i�c�h� �t�h�e�~�m�o�u�s�e� �c�a�n� �r�o�t�a�t�e� �t�h�e� �v�i�e�w�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�v�o�l�u�m�e�,�V�o�l�u�m�e�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�v�o�l�u�m�e�_�d�e�s�c�r�i�p�t�i�o�n�,�T�h�e� �v�o�l�u�m�e� �o�f� �t�h�e� �b�a�c�k�g�r�o�u�n�d� �m�u�s�i�c�.�~�T�h�i�s� �s�e�t�t�i�n�g�s� �i�s� �f�o�r� �a�l�l� �s�a�v�e� �s�t�a�t�e�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�n�d�e�r�_�d�i�s�t�a�n�c�e�,�R�e�n�d�e�r�D�i�s�t�a�n�c�e�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�n�d�e�r�_�d�i�s�t�a�n�c�e�_�t�i�n�y�,�T�i�n�y�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�n�d�e�r�_�d�i�s�t�a�n�c�e�_�s�h�o�r�t�,�S�h�o�r�t�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�n�d�e�r�_�d�i�s�t�a�n�c�e�_�n�o�r�m�a�l�,�N�o�r�m�a�l�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�n�d�e�r�_�d�i�s�t�a�n�c�e�_�f�a�r�,�F�a�r�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�n�d�e�r�_�d�i�s�t�a�n�c�e�_�e�x�t�r�e�m�e�,�E�x�t�r�e�m�e�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�n�d�e�r�_�d�i�s�t�a�n�c�e�_�d�e�s�c�r�i�p�t�i�o�n�,�T�h�e� �r�e�n�d�e�r�d�i�s�t�a�n�c�e� �d�e�t�e�r�m�i�n�e�s�,�~�h�o�w� �f�a�r� �y�o�u� �c�a�n� �s�e�e�.�~�B�y� �t�u�r�n�i�n�g� �t�h�i�s� �d�o�w�n�,� �y�o�u� �c�a�n� �i�m�p�r�o�v�e� �y�o�u�r� �F�P�S�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�g�r�a�p�h�i�c�s�,�G�r�a�p�h�i�c�s�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�g�r�a�p�h�i�c�s�_�f�a�n�c�y�,�F�a�n�c�y�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�g�r�a�p�h�i�c�s�_�f�a�s�t�,�F�a�s�t�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�g�r�a�p�h�i�c�s�_�d�e�s�c�r�i�p�t�i�o�n�,�A�f�f�e�c�t�s� �i�f� �s�o�m�e� �o�b�j�e�c�t�s� �a�r�e� �r�e�n�d�e�r�e�d�~�o�r� �n�o�t�.� �B�y� �t�u�r�n�i�n�g� �t�h�i�s� �d�o�w�n�,� �y�o�u� �c�a�n� �i�m�p�r�o�v�e� �y�o�u�r� �F�P�S�.�~�T�h�i�s� �s�e�t�t�i�n�g�s� �i�s� �f�o�r� �a�l�l� �s�a�v�e� �s�t�a�t�e�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�o�f�f�s�e�t�_�m�a�p�_�q�u�a�l�i�t�y�,�O�f�f�s�e�t� �m�a�p� �q�u�a�l�i�t�y�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�o�f�f�s�e�t�_�m�a�p�_�o�f�f�,�O�f�f�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�o�f�f�s�e�t�_�m�a�p�_�q�u�a�l�i�t�y�_�d�e�s�c�r�i�p�t�i�o�n�,�S�e�t�s� �t�h�e� �q�u�a�l�i�t�y� �o�f� �t�h�e� �o�f�f�s�e�t� �m�a�p�s�.�~�T�h�e� �d�e�t�a�i�l�s� �a�n�d� �u�p�d�a�t�e� �f�r�e�q�u�e�n�c�y� �o�f� �o�f�f�s�e�t� �m�a�p�s� �i�n�c�r�e�a�s�e� �w�i�t�h� �t�h�i�s� �v�a�l�u�e�.�~�S�e�t� �t�h�i�s� �v�a�l�u�e� �t�o� �0� �t�o� �p�r�e�v�e�n�t� �t�h�e� �g�a�m�e� �f�r�o�m� �l�o�a�d�i�n�g� �o�f�f�s�e�t� �m�a�p�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�a�n�i�m�a�t�i�o�n�s�_�i�n�_�b�a�t�t�l�e�,�A�n�i�m�a�t�i�o�n�s� �i�n� �b�a�t�t�l�e�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�a�n�i�m�a�t�i�o�n�s�_�i�n�_�b�a�t�t�l�e�_�n�o�,�N�o�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�a�n�i�m�a�t�i�o�n�s�_�i�n�_�b�a�t�t�l�e�_�a�t�t�a�c�k�s�_�o�f�f�,�A�t�t�a�c�k�s� �o�f�f�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�a�n�i�m�a�t�i�o�n�s�_�i�n�_�b�a�t�t�l�e�_�y�e�s�,�Y�e�s�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�a�n�i�m�a�t�i�o�n�s�_�i�n�_�b�a�t�t�l�e�_�d�e�s�c�r�i�p�t�i�o�n�,�D�e�t�e�r�m�i�n�e�s� �i�f� �t�h�e� �g�a�m�e� �s�h�o�w�s� �b�a�t�t�l�e� �a�n�i�m�a�t�i�o�n�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�d�i�f�f�i�c�u�l�t�y�,�D�i�f�f�i�c�u�l�t�y�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�d�i�f�f�i�c�u�l�t�y�_�d�e�s�c�r�i�p�t�i�o�n�,�D�i�f�f�i�c�u�l�t�y� �m�o�d�e�~�S�e�t�s� �t�h�e� �l�e�v�e�l� �o�f� �d�i�f�f�i�c�u�l�t�y�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�b�a�t�t�l�e�_�s�t�y�l�e�,�B�a�t�t�l�e�S�t�y�l�e�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�b�a�t�t�l�e�_�s�t�y�l�e�_�s�h�i�f�t�,�S�h�i�f�t�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�b�a�t�t�l�e�_�s�t�y�l�e�_�s�e�t�,�S�e�t�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�b�a�t�t�l�e�_�s�t�y�l�e�_�d�e�s�c�r�i�p�t�i�o�n�,�B�a�t�t�l�e� �S�t�y�l�e�~�S�e�t�:� �Y�o�u� �a�r�e� �n�o�t� �a�s�k�e�d� �t�o� �s�w�i�t�c�h� �o�u�t� �y�o�u�r� �P�o�k���m�o�n�~�S�h�i�f�t�:� �Y�o�u� �c�a�n� �s�w�i�t�c�h� �o�u�t� �y�o�u�r� �P�o�k���m�o�n� �a�f�t�e�r� �d�e�f�e�a�t�i�n�g� �a�n� �o�p�p�o�n�e�n�t�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�v�i�e�w�_�b�o�b�b�i�n�g�,�V�i�e�w� �b�o�b�b�i�n�g�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�v�i�e�w�_�b�o�b�b�i�n�g�_�d�e�s�c�r�i�p�t�i�o�n�,�T�u�r�n�s� �c�a�m�e�r�a� �s�h�a�k�i�n�g� �o�n� �o�r� �o�f�f�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�s�e�t�_�o�p�t�i�o�n�s�,�R�e�s�e�t� �o�p�t�i�o�n�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�r�e�s�e�t�_�o�p�t�i�o�n�s�_�d�e�s�c�r�i�p�t�i�o�n�,�R�e�s�e�t�s� �a�l�l� �o�p�t�i�o�n�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�s�a�v�e�_�o�p�t�i�o�n�s�,�S�a�v�e� �o�p�t�i�o�n�s�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�s�a�v�e�_�o�p�t�i�o�n�s�_�d�e�s�c�r�i�p�t�i�o�n�,�S�a�v�e� �t�h�e� �o�p�t�i�o�n�s� �a�n�d� �c�l�o�s�e� �t�h�e� �m�e�n�u�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�c�l�o�s�e�_�m�e�n�u�,�C�l�o�s�e� �m�e�n�u�.�
+�
+�o�p�t�i�o�n�_�s�c�r�e�e�n�_�c�l�o�s�e�_�m�e�n�u�_�d�e�s�c�r�i�p�t�i�o�n�,�C�l�o�s�e� �t�h�e� �m�e�n�u� �a�n�d� �d�o� �n�o�t� �s�a�v�e�~�t�h�e� �c�h�a�n�g�e�s�.�
+�
+�-�-�-�
+�
+�I�t�e�m� �D�e�t�a�i�l� �S�c�r�e�e�n�:�
+�
+�i�t�e�m�_�d�e�t�a�i�l�_�s�c�r�e�e�n�_�u�s�e�,�U�s�e�
+�
+�i�t�e�m�_�d�e�t�a�i�l�_�s�c�r�e�e�n�_�g�i�v�e�,�G�i�v�e�
+�
+�i�t�e�m�_�d�e�t�a�i�l�_�s�c�r�e�e�n�_�t�r�a�s�h�,�T�r�a�s�h�
+�
+�i�t�e�m�_�d�e�t�a�i�l�_�s�c�r�e�e�n�_�b�a�c�k�,�B�a�c�k�
+�
+�i�t�e�m�_�d�e�t�a�i�l�_�s�c�r�e�e�n�_�g�i�v�e�_�i�t�e�m�,�G�i�v�e� �
+�
+�-�-�-�
+�
+�A�p�r�i�c�o�r�n� �S�c�r�e�e�n�:�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�a�p�r�i�c�o�r�n�s�,�A�p�r�i�c�o�r�n�s�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�p�r�o�d�u�c�i�n�g�,�I� �a�m� �p�r�o�d�u�c�i�n�g� �t�h�e� �B�a�l�l�s� �a�t� �t�h�e� �m�o�m�e�n�t�.�~�C�o�m�e� �b�a�c�k� �l�a�t�e�r�.�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�c�h�o�o�s�e�_�a�p�r�i�c�o�r�n�s�,�P�l�e�a�s�e� �c�h�o�o�s�e� �t�h�e� �A�p�r�i�c�o�r�n�s� �I� �s�h�o�u�l�d� �t�a�k�e� �t�o� �p�r�o�d�u�c�e� �P�o�k���b�a�l�l�s�.�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�o�k�,�O�K�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�c�l�e�a�r�,�C�l�e�a�r�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�t�a�k�e�,�T�a�k�e�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�r�e�a�d�y�,�I� �a�m� �r�e�a�d�y� �p�r�o�d�u�c�i�n�g� �P�o�k���b�a�l�l�s�.� �H�e�r�e�'�s� �t�h�e� �r�e�s�u�l�t� �o�f� �m�y� �w�o�r�k�:�
+�
+�a�p�r�i�c�o�r�n�_�s�c�r�e�e�n�_�o�b�t�a�i�n�,� �o�b�t�a�i�n�e�d�
+�
+�-�-�-�
+�
+�D�a�y�c�a�r�e� �S�c�r�e�e�n�:�
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�d�a�y�c�a�r�e�,�D�a�y�c�a�r�e�
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�m�o�n�e�y�,� �/� �M�o�n�e�y�:� �
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�d�e�p�o�s�i�t�,�D�e�p�o�s�i�t�
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�g�r�o�w�n�,�G�r�o�w�n�:� �
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�l�v�,� �/� �L�v�.� �
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�c�o�s�t�s�,� �/� �C�o�s�t�s�:�
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�p�o�k�e�d�o�l�l�a�r�,� �P�o�k���D�o�l�l�a�r�
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�w�i�t�h�d�r�a�w�,�W�i�t�h�d�r�a�w�
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�R�E�S�S� �E� �T�O� �G�O� �B�A�C�K�
+�
+�d�a�y�c�a�r�e�_�s�c�r�e�e�n�_�p�o�k�e�m�o�n�_�c�h�o�o�s�e�_�h�e�a�d�e�r�,�D�e�p�o�s�i�t� �P�o�k���m�o�n�
+�
+�E�g�g�,�E�g�g�
+�
+�-�-�-�
+�
+�N�e�t�w�o�r�k� �S�c�r�e�e�n�:�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�i�s�o�n�l�i�n�e�,�Y�o�u� �a�r�e� �i�n� �a� �c�o�-�o�p� �g�a�m�e� �a�l�r�e�a�d�y�!� �P�l�e�a�s�e� �c�l�o�s�e� �t�h�e� �c�o�n�n�e�c�t�i�o�n�~�t�o� �o�p�e�n� �a� �n�e�w� �g�a�m�e� �o�r� �c�o�n�n�e�c�t� �a�g�a�i�n�!�~�~�~�P�r�e�s�s� �E� �t�o� �g�o� �b�a�c�k�!�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�h�e�a�d�e�r�,�C�o�-�O�p� �G�a�m�e�p�l�a�y�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�m�a�i�n�_�h�e�a�d�e�r�,�Y�o�u� �c�a�n� �e�i�t�h�e�r� �j�o�i�n� �a� �g�a�m�e� �o�r� �h�o�s�t� �a�~�n�e�w� �o�n�e� �t�o� �p�l�a�y� �t�o�g�e�t�h�e�r� �w�i�t�h� �a� �f�r�i�e�n�d�.�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�m�a�i�n�_�j�o�i�n�,�J�o�i�n�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�m�a�i�n�_�h�o�s�t�,�H�o�s�t�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�m�a�i�n�_�c�l�o�s�e�,�C�l�o�s�e�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�j�o�i�n�_�h�e�a�d�e�r�,�J�o�i�n� �a� �g�a�m�e�:�~�E�n�t�e�r� �t�h�e� �I�P� �a�d�d�r�e�s�s� �o�f� �t�h�e� �h�o�s�t�e�d� �g�a�m�e�.�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�j�o�i�n�_�c�a�n�c�e�l�,�C�a�n�c�e�l�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�j�o�i�n�_�j�o�i�n�,�J�o�i�n�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�h�o�s�t�_�h�e�a�d�e�r�,�H�o�s�t� �a� �g�a�m�e�:�~�Y�o�u� �a�r�e� �a�b�o�u�t� �t�o� �o�p�e�n� �y�o�u�r�~�g�a�m�e� �f�o�r� �o�t�h�e�r� �p�l�a�y�e�r�s� �i�n� �y�o�u�r� �n�e�t�w�o�r�k�.�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�h�o�s�t�_�c�a�n�c�e�l�,�C�a�n�c�e�l�
+�
+�n�e�t�w�o�r�k�_�s�c�r�e�e�n�_�h�o�s�t�_�h�o�s�t�,�H�o�s�t�
+�
+�-�-�-�
+�
+�D�o�n�a�t�i�o�n� �s�c�r�e�e�n�:�
+�
+�d�o�n�a�t�i�o�n�_�s�c�r�e�e�n�_�d�o�n�a�t�o�r�s�,�D�o�n�a�t�o�r�s�
+�
+�d�o�n�a�t�i�o�n�_�s�c�r�e�e�n�_�b�a�c�k�a�d�v�i�c�e�,�P�r�e�s�s� �E� �t�o� �c�l�o�s�e�
+�
+�-�-�-�
+�
+�B�l�a�c�k�o�u�t� �S�c�r�e�e�n�:�
+�
+�b�l�a�c�k�_�o�u�t�_�s�c�r�e�e�n�_�l�i�n�e�1�,�Y�o�u� �h�a�v�e� �r�u�n� �o�u�t� �o�f� �P�o�k���m�o�n�!�
+�
+�b�l�a�c�k�_�o�u�t�_�s�c�r�e�e�n�_�l�i�n�e�2�,�Y�o�u� �w�i�l�l� �b�e� �b�r�o�u�g�h�t�
+�
+�b�l�a�c�k�_�o�u�t�_�s�c�r�e�e�n�_�l�i�n�e�3�,�t�o� �t�h�e� �n�e�a�r�e�s�t� �P�o�k���C�e�n�t�e�r�
+�
+�b�l�a�c�k�_�o�u�t�_�s�c�r�e�e�n�_�l�i�n�e�4�,�t�o� �p�r�e�v�e�n�t� �f�u�r�t�h�e�r� �i�n�j�u�r�y�
+�
+�b�l�a�c�k�_�o�u�t�_�s�c�r�e�e�n�_�l�i�n�e�5�,�t�o� �y�o�u�r� �P�o�k���m�o�n�.�
+�
+�-�-�-�
+�
+�B�a�t�t�l�e�:�
+�
+�-�-�-�
+�
+�m�a�i�n�:�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�s�e�n�t�_�o�u�t�_�1�,� �s�e�n�t� �o�u�t�~�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�s�e�n�t�_�o�u�t�_�2�,�.�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�s�e�n�t�_�o�u�t�_�3�,� �i�s� �a�b�o�u�t�~�t�o� �s�e�n�d� �o�u�t�~�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�s�e�n�t�_�o�u�t�_�4�,�!�~�D�o� �y�o�u� �w�a�n�t� �t�o� �s�w�i�t�c�h�~�y�o�u�r� �P�o�k���m�o�n�?�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�s�e�n�t�_�o�u�t�_�5�,�Y�e�s�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�s�e�n�t�_�o�u�t�_�6�,�N�o�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�c�h�o�o�s�e�_�p�o�k�e�m�o�n�,�C�h�o�o�s�e� �P�o�k���m�o�n�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�w�i�l�d�_�a�p�p�e�a�r�_�1�,�A� �w�i�l�d� �
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�w�i�l�d�_�a�p�p�e�a�r�_�2�,�~�a�p�p�e�a�r�e�d�!�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�i�n�t�r�o�_�1�,� �a�n�d�~�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�i�n�t�r�o�_�2�,� �w�a�n�t�~�t�o� �b�a�t�t�l�e�!�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�i�n�t�r�o�_�3�,� �w�a�n�t�s�~�t�o� �b�a�t�t�l�e�!�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�i�n�t�r�o�_�1�,�G�O�!� �
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�i�n�t�r�o�_�2�,�!�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�d�e�f�e�a�t�_�1�,�~�w�a�s� �d�e�f�e�a�t�e�d�!�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�d�e�f�e�a�t�_�2�,� �a�n�d�~�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�d�e�f�e�a�t�_�3�,�~�w�e�r�e� �d�e�f�e�a�t�e�d�!�
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�d�e�f�e�a�t�_�4�,� �g�o�t� �
+�
+�b�a�t�t�l�e�_�m�a�i�n�_�t�r�a�i�n�e�r�_�d�e�f�e�a�t�_�5�,�~�P�o�k���D�o�l�l�a�r� �f�o�r� �w�i�n�n�i�n�g�!�
+�
+�-�-�-�
+�
+�a�t�t�a�c�k�T�u�r�n�:�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�p�o�i�s�o�n�_�d�a�m�a�g�e�,�~�w�a�s� �h�u�r�t� �b�y� �p�o�i�s�o�n�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�f�i�r�e�_�d�a�m�a�g�e�,�~�w�a�s� �h�u�r�t� �b�y� �i�t�s� �b�u�r�n�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�t�r�a�i�n�e�r�_�i�t�e�m�_�1�,� �u�s�e�d� �a�~�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�t�r�a�i�n�e�r�_�i�t�e�m�_�2�,�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�a�s�l�e�e�p�,� �i�s� �f�a�s�t�~�a�s�l�e�e�p�.�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�w�o�k�e�_�u�p�,� �w�o�k�e� �u�p�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�p�a�r�a�l�y�z�e�d�,� �i�s� �p�a�r�a�l�y�z�e�d�!�~�I�t� �c�a�n�'�t� �m�o�v�e�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�f�r�o�z�e�n�_�f�r�e�e�,� �i�s� �n�o�~�l�o�n�g�e�r� �f�r�o�z�e�n�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�f�r�o�z�e�n�,� �i�s� �f�r�o�z�e�n�~�s�o�l�i�d�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�f�l�i�n�c�h�e�d�,� �f�l�i�n�c�h�e�d�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�n�o�_�l�o�n�g�e�r�_�c�o�n�f�u�s�e�d�,� �i�s� �n�o�~�l�o�n�g�e�r� �c�o�n�f�u�s�e�d�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�c�o�n�f�u�s�e�d�,� �i�s�~�c�o�n�f�u�s�e�d�.�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�h�i�t�_�s�e�l�f�_�c�o�n�f�u�s�i�o�n�,� �h�i�t�s� �i�t�s�e�l�f�~�i�n� �c�o�n�f�u�s�i�o�n�!�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�n�o�_�P�P�_�l�e�f�t�,� �h�a�s�~�n�o� �P�P� �l�e�f�t�!�*�
+�
+�b�a�t�t�l�e�_�a�t�t�a�c�k�_�u�s�e�d�,� �u�s�e�d� �
+�
+�-�-�-�
+�
+�B�a�d�g�e�s�:�
+�
+�b�a�d�g�e�_�B�o�u�l�d�e�r�,�B�o�u�l�d�e�r�
+�
+�b�a�d�g�e�_�C�a�s�c�a�d�e�,�C�a�s�c�a�d�e�
+�
+�b�a�d�g�e�_�T�h�u�n�d�e�r�,�T�h�u�n�d�e�r�
+�
+�b�a�d�g�e�_�R�a�i�n�b�o�w�,�R�a�i�n�b�o�w�
+�
+�b�a�d�g�e�_�S�o�u�l�,�S�o�u�l�
+�
+�b�a�d�g�e�_�M�a�r�s�h�,�M�a�r�s�h�
+�
+�b�a�d�g�e�_�V�o�l�c�a�n�o�,�V�o�l�c�a�n�o�
+�
+�b�a�d�g�e�_�E�a�r�t�h�,�E�a�r�t�h�
+�
+�b�a�d�g�e�_�Z�e�p�h�y�r�,�Z�e�p�h�y�r�
+�
+�b�a�d�g�e�_�H�i�v�e�,�H�i�v�e�
+�
+�b�a�d�g�e�_�P�l�a�i�n�,�P�l�a�i�n�
+�
+�b�a�d�g�e�_�F�o�g�,�F�o�g�
+�
+�b�a�d�g�e�_�S�t�o�r�m�,�S�t�o�r�m�
+�
+�b�a�d�g�e�_�M�i�n�e�r�a�l�,�M�i�n�e�r�a�l�
+�
+�b�a�d�g�e�_�G�l�a�c�i�e�r�,�G�l�a�c�i�e�r�
+�
+�b�a�d�g�e�_�R�i�s�i�n�g�,�R�i�s�i�n�g�
+�
+�-�-�-�
+�
+�R�e�g�i�o�n�s�:�
+�
+�J�o�h�t�o�,�D�ž�i�o�t�o�
+�
+�K�a�n�t�o�,�K�a�n�t�o�
+�
+�-�-�-�
+�
+�P�l�a�c�e�s�:�
+�
+�P�l�a�c�e�s�_�?�?�?�,�?�?�?�
+�
+�
+�
+�T�o�w�n�s�:�
+�
+�P�l�a�c�e�s�_�N�e�w� �B�a�r�k� �T�o�w�n�,�N�a�u�j�o�s�i�o�s� �Ž�i�e�v�ė�s� �M�i�e�s�t�e�l�i�s�
+�
+�P�l�a�c�e�s�_�C�h�e�r�r�y�g�r�o�v�e� �C�i�t�y�,�V�y�š�n�i�ų� �G�i�r�a�i�t�ė�s� �M�i�e�s�t�a�s�
+�
+�P�l�a�c�e�s�_�V�i�o�l�e�t� �C�i�t�y�,�Ž�i�b�u�o�k�l�i�ų� �M�i�e�s�t�a�s�
+�
+�P�l�a�c�e�s�_�A�z�a�l�e�a� �T�o�w�n�,�A�z�a�l�i�j�o�s� �M�i�e�s�t�e�l�i�s�
+�
+�P�l�a�c�e�s�_�G�o�l�d�e�n�r�o�d� �C�i�t�y�,�A�u�k�s�i�n�ė�s� �L�a�z�d�e�l�ė�s� �M�i�e�s�t�a�s�
+�
+�P�l�a�c�e�s�_�E�c�r�u�t�e�a�k� �C�i�t�y�,�E�c�r�u�t�e�a�k� �C�i�t�y�
+�
+�P�l�a�c�e�s�_�O�l�i�v�i�n�e� �C�i�t�y�,�O�l�i�v�i�n�e� �C�i�t�y�
+�
+�P�l�a�c�e�s�_�C�i�a�n�w�o�o�d� �C�i�t�y�,�C�i�a�n�w�o�o�d� �C�i�t�y�
+�
+�P�l�a�c�e�s�_�M�a�h�o�g�a�n�y� �T�o�w�n�,�M�a�h�o�g�a�n�y� �T�o�w�n�
+�
+�P�l�a�c�e�s�_�B�l�a�c�k�t�h�o�r�n� �C�i�t�y�,�B�l�a�c�k�t�h�o�r�n� �C�i�t�y�
+�
+�P�l�a�c�e�s�_�L�a�v�e�n�d�e�r� �T�o�w�n�,�L�a�v�e�n�d�e�r� �T�o�w�n�
+�
+�
+�
+�S�p�e�c�i�a�l� �H�o�u�s�e�s�:�
+�
+�P�l�a�c�e�s�_�G�a�t�e�,�V�a�r�t�a�i�
+�
+�P�l�a�c�e�s�_�P�o�k�e�m�o�n� �C�e�n�t�e�r�,�P�o�k�e�m�o�n�ų� �C�e�n�t�r�a�s�
+�
+�P�l�a�c�e�s�_�P�o�k�e�m�o�n� �M�a�r�t�,�P�o�k�e�m�o�n�ų� �P�a�r�d�u�o�t�u�v�ė�
+�
+�P�l�a�c�e�s�_�E�l�m�s� �l�a�b�,�G�u�o�b�o�s� �L�a�b�a�r�a�t�o�r�i�j�a�
+�
+�P�l�a�c�e�s�_�A�z�a�l�e�a� �T�o�w�n� �G�y�m�,�A�z�a�l�i�j�o�s� �M�i�e�s�t�e�l�i�o� �S�a�l�ė
+�
+�P�l�a�c�e�s�_�V�i�o�l�e�t� �C�i�t�y� �G�y�m�,�Ž�i�b�u�o�k�l�ė�s� �M�i�e�s�t�o� �S�a�l�ė�
+�
+�P�l�a�c�e�s�_�G�o�l�d�e�n�r�o�d� �C�i�t�y� �G�y�m�,�A�u�k�s�i�n�ė�s� �L�a�z�d�e�l�ė�s� �M�i�e�s�t�o� �S�a�l�ė�
+�
+�P�l�a�c�e�s�_�Y�o�u�r� �H�o�u�s�e�,�J�ū�s�ų� �N�a�m�a�s�
+�
+�P�l�a�c�e�s�_�Y�o�u�r� �R�o�o�m�,�J�ū�s�ų� �K�a�m�b�a�r�y�s�
+�
+�P�l�a�c�e�s�_�D�a�y�c�a�r�e�,�D�a�y�c�a�r�e�
+�
+�
+�
+�D�u�n�g�e�o�n�s�:�
+�
+�P�l�a�c�e�s�_�I�l�e�x� �F�o�r�e�s�t�,�B�u�g�i�e�n�i�s� �M�i�š�k�a�s�
+�
+�P�l�a�c�e�s�_�D�a�r�k� �C�a�v�e�,�T�a�m�s�u�s�i�s� �U�r�v�a�s�
+�
+�P�l�a�c�e�s�_�R�u�i�n�s� �o�f� �A�l�p�h�,�R�u�i�n�s� �o�f� �A�l�p�h�
+�
+�P�l�a�c�e�s�_�S�l�o�w�p�o�k�e� �W�e�l�l�,�L�ė�t�a�p�ė�d�ž�i�o� �Š�u�l�i�n�y�s�
+�
+�P�l�a�c�e�s�_�S�p�r�o�u�t� �T�o�w�e�r�,�D�a�i�g�ų� �B�o�k�š�t�a�s�
+�
+�P�l�a�c�e�s�_�U�n�i�o�n� �C�a�v�e�,�S�ą�j�u�n�g�o�s� �U�r�v�a�s�
+�
+�P�l�a�c�e�s�_�M�t�.� �M�o�r�t�a�r�,�M�t�.� �M�o�r�t�a�r�
+�
+�P�l�a�c�e�s�_�B�e�l�l� �T�o�w�e�r�,�V�a�r�p�e�l�i�ų� �B�o�k�š�t�a�s�
+�
+�P�l�a�c�e�s�_�B�u�r�n�e�d� �T�o�w�e�r�,�S�u�d�e�g�ę�s� �B�o�k�š�t�a�s�
+�
+�P�l�a�c�e�s�_�G�l�i�t�t�e�r� �L�i�g�h�t�h�o�u�s�e�,�G�l�i�t�t�e�r� �Š�v�y�t�u�r�y�s�
+�
+�P�l�a�c�e�s�_�I�c�e� �P�a�t�h�,�L�e�d�o� �T�a�k�a�s�
+�
+�P�l�a�c�e�s�_�N�a�t�i�o�n�a�l� �P�a�r�k�,�N�a�c�i�o�n�a�l�i�n�i�s� �P�a�r�k�a�s�
+�
+�P�l�a�c�e�s�_�W�h�i�r�l� �I�s�l�a�n�d�s�,�S�ū�k�u�r�i�ų� �S�a�l�o�s�
+�
+�P�l�a�c�e�s�_�L�a�k�e� �o�f� �R�a�g�e�,�Į�n�i�r�š�i�o� �E�ž�e�r�a�s�
+�
+�P�l�a�c�e�s�_�U�n�d�e�r�g�r�o�u�n�d�,�P�o�ž�e�m�i�s�
+�
+�
+�
+�R�o�u�t�e�s�:�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�,�1�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�,�2�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�,�3�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�,�4�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �5�,�5�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �6�,�6�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �7�,�7�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �8�,�8�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �9�,�9�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�0�,�1�0�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�1�,�1�1�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�2�,�1�2�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�3�,�1�3�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�4�,�1�4�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�5�,�1�5�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�6�,�1�6�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�7�,�1�7�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�8�,�1�8�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�9�,�1�9�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�0�,�2�0�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�1�,�2�1�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�2�,�2�2�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�3�,�2�3�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�4�,�2�4�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�5�,�2�5�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�6�,�2�6�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�7�,�2�7�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�8�,�2�8�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �2�9�,�2�9�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�0�,�3�0�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�1�,�3�1�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�2�,�3�2�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�3�,�3�3�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�4�,�3�4�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�5�,�3�5�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�6�,�3�6�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�7�,�3�7�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�8�,�3�8�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �3�9�,�3�9�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�0�,�4�0�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�1�,�4�1�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�2�,�4�2�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�3�,�4�3�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�4�,�4�4�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�5�,�4�5�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�6�,�4�6�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�7�,�4�7�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �4�8�,�4�8�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�P�l�a�c�e�s�_�R�o�u�t�e� �1�0�1�,�1�0�1�-�a�s�i�s� �K�e�l�i�a�s�
+�
+�-�-�-�
+�
+�I�t�e�m� �c�a�t�e�g�o�r�i�e�s�:�
+�
+�i�t�e�m�_�c�a�t�e�g�o�r�y�_�S�t�a�n�d�a�r�d�,�S�t�a�n�d�a�r�d�
+�
+�i�t�e�m�_�c�a�t�e�g�o�r�y�_�M�e�d�i�c�i�n�e�,�M�e�d�i�c�i�n�e�
+�
+�i�t�e�m�_�c�a�t�e�g�o�r�y�_�M�a�c�h�i�n�e�s�,�M�a�c�h�i�n�e�s�
+�
+�i�t�e�m�_�c�a�t�e�g�o�r�y�_�P�o�k���b�a�l�l�s�,�P�o�k���b�a�l�l�s�
+�
+�i�t�e�m�_�c�a�t�e�g�o�r�y�_�P�l�a�n�t�s�,�P�l�a�n�t�s�
+�
+�i�t�e�m�_�c�a�t�e�g�o�r�y�_�K�e�y�I�t�e�m�s�,�K�e�y� �I�t�e�m�s�
+�
+�-�-�-�
+�
+�G�a�m�e�M�e�s�s�a�g�e�s�:�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�s�c�r�e�e�n�s�h�o�t�,�S�c�r�e�e�n�s�h�o�t� �s�a�v�e�d� �a�s� �
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�s�c�r�e�e�n�s�h�o�t�_�f�a�i�l�e�d�,�C�a�n�n�o�t� �c�r�e�a�t�e� �s�c�r�e�e�n�s�h�o�t�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�f�u�l�l�s�c�r�e�e�n�_�o�n�,�F�u�l�l�s�c�r�e�e�n� �o�n�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�f�u�l�l�s�c�r�e�e�n�_�o�f�f�,�F�u�l�l�s�c�r�e�e�n� �o�f�f�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�t�h�i�r�d�_�p�e�r�s�o�n�_�o�n�,�T�h�i�r�d� �p�e�r�s�o�n� �m�o�d�e� �o�n�.�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�t�h�i�r�d�_�p�e�r�s�o�n�_�o�f�f�,�T�h�i�r�d� �p�e�r�s�o�n� �m�o�d�e� �o�f�f�.�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�f�r�e�e�_�c�a�m�e�r�a�_�o�n�,�F�r�e�e� �c�a�m�e�r�a� �m�o�d�e� �o�n�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�f�r�e�e�_�c�a�m�e�r�a�_�o�f�f�,�F�r�e�e� �c�a�m�e�r�a� �m�o�d�e� �o�f�f�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�m�u�s�i�c�_�o�n�,�M�u�s�i�c� �o�n�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�m�u�s�i�c�_�o�f�f�,�M�u�s�i�c� �o�f�f�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�o�n�t�i�n�u�e�_�a�u�t�o�s�a�v�e�,�C�o�n�t�i�n�u�e�d� �s�a�v�e� �s�t�a�t�e�:�
+�
+�-�-�-�
+�
+�O�n�l�i�n�e�:�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�l�o�s�e�_�c�o�n�n�e�c�t�i�o�n�,�Y�o�u� �c�l�o�s�e�d� �t�h�e� �c�o�-�o�p� �g�a�m�e�.�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�d�i�s�c�o�n�n�c�e�t�,�Y�o�u� �d�i�s�c�o�n�n�e�c�t�e�d� �f�r�o�m� �t�h�e� �h�o�s�t�.�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�a�n�n�o�t�_�c�o�n�n�e�c�t�_�c�l�i�e�n�t�_�1�,�C�a�n�n�o�t� �c�o�n�n�e�c�t� �t�o� �h�o�s�t� �(�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�a�n�n�o�t�_�c�o�n�n�e�c�t�_�c�l�i�e�n�t�_�2�,�)�!�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�l�i�e�n�t�_�c�o�n�n�e�c�t�_�1�,�Y�o�u� �j�o�i�n�e�d� �t�h�e� �g�a�m�e� �(�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�l�i�e�n�t�_�c�o�n�n�e�c�t�_�2�,�)�!�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�l�i�e�n�t�_�h�o�s�t�_�c�l�o�s�e�d�_�1�,�T�h�e� �h�o�s�t� �(�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�l�i�e�n�t�_�h�o�s�t�_�c�l�o�s�e�d�_�2�,�)� �c�l�o�s�e�d� �t�h�e� �c�o�n�n�e�c�t�i�o�n�.�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�c�l�i�e�n�t�_�o�u�t�d�a�t�e�d�_�n�e�w�e�r�_�v�e�r�s�i�o�n�,�Y�o�u� �h�a�v�e� �a�n� �o�u�t�d�a�t�e�d� �o�r� �n�e�w�e�r� �v�e�r�s�i�o�n� �o�f� �t�h�e� �g�a�m�e�.�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�h�o�s�t�_�s�e�s�s�i�o�n�_�s�t�a�r�t�e�d�,�Y�o�u� �(�h�o�s�t�)� �s�t�a�r�t�e�d� �a� �C�o�-�O�p� �s�e�s�s�i�o�n�.�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�h�o�s�t�_�o�u�t�d�a�t�e�d�_�n�e�w�e�r�_�v�e�r�s�i�o�n�,�T�h�e� �c�l�i�e�n�t� �h�a�s� �a�n� �o�u�t�d�a�t�e�d� �o�r� �n�e�w�e�r� �v�e�r�s�i�o�n� �o�f� �t�h�e� �g�a�m�e�!�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�h�o�s�t�_�c�l�i�e�n�t�_�a�c�c�e�p�t�,�A� �c�l�i�e�n�t� �j�o�i�n�e�d� �t�h�e� �g�a�m�e�!�
+�
+�g�a�m�e�_�m�e�s�s�a�g�e�_�h�o�s�t�_�c�l�i�e�n�t�_�d�i�s�c�o�n�n�e�c�t�,�T�h�e� �c�l�i�e�n�t� �d�i�s�c�o�n�n�e�c�t�e�d�!� �T�h�e� �C�o�-�O�p� �s�e�s�s�i�o�n� �h�a�s� �b�e�e�n� �c�l�o�s�e�d�.�
+�
+�-�-�-�
+�
+�G�e�n�e�r�a�l�:�
+�
+�H�P�,�H�P�
+�
+�P�P�,�P�P�
+�
+�L�v�.�,�L�v�.�
+�
+�L�e�v�e�l�,�L�e�v�e�l�
+�
+�A�t�t�a�c�k�,�A�t�t�a�c�k�
+�
+�D�e�f�e�n�s�e�,�D�e�f�e�n�s�e�
+�
+�S�p�e�c�i�a�l�_�A�t�t�a�c�k�,�S�p�e�c�i�a�l� �A�t�t�a�c�k�
+�
+�S�p�e�c�i�a�l�_�D�e�f�e�n�s�e�,�S�p�e�c�i�a�l� �D�e�f�e�n�s�e�
+�
+�S�p�e�e�d�,�S�p�e�e�d�
+�
+�-�-�-�
+�
+�P�o�k�e�m�o�n�:�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�u�l�b�a�s�a�u�r�,�B�u�l�b�a�s�a�u�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�I�v�y�s�a�u�r�,�I�v�y�s�a�u�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�e�n�u�s�a�u�r�,�V�e�n�u�s�a�u�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�h�a�r�m�a�n�d�e�r�,�C�h�a�r�m�a�n�d�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�h�a�r�m�e�l�e�o�n�,�C�h�a�r�m�e�l�e�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�h�a�r�i�z�a�r�d�,�C�h�a�r�i�z�a�r�d�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�q�u�i�r�t�l�e�,�S�q�u�i�r�t�l�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�W�a�r�t�o�r�t�l�e�,�W�a�r�t�o�r�t�l�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�l�a�s�t�o�i�s�e�,�B�l�a�s�t�o�i�s�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�a�t�e�r�p�i�e�,�K�a�t�e�r�p�i�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�e�t�a�p�o�d�,�M�e�t�a�p�o�d�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�u�t�t�e�r�f�r�e�e�,�D�r�u�g�e�l�a�i�s�v�i�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�W�e�e�d�l�e�,�W�y�d�l�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�a�k�u�n�a�,�K�a�k�u�n�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�e�e�d�r�i�l�l�,�B�y�t�r�i�l�ė�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�d�g�e�y�,�P�i�d�ž�i�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�d�g�e�o�t�t�o�,�P�i�d�ž�e�o�t�o�t�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�d�g�e�o�t�,�P�i�d�ž�e�o�t�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�a�t�t�a�t�a�,�R�a�t�a�t�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�a�t�i�c�a�t�e�,�R�a�t�i�k�e�i�t�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�p�e�a�r�o�w�,�S�p�e�a�r�o�w�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�F�e�a�r�o�w�,�F�e�a�r�o�w�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�k�a�n�s�,�E�k�a�n�s�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�r�b�o�k�,�A�r�b�o�k�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�k�a�c�h�u�,�P�i�k�a�č�i�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�a�i�c�h�u�,�R�a�i�č�i�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�a�n�d�s�h�r�e�w�,�S�m�ė�l�i�u�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�a�n�d�s�h�l�a�s�h�,�S�a�n�d�s�l�e�š�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�i�d�o�r�a�n�,�N�i�d�o�r�a�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�i�d�o�r�i�n�a�,�N�i�d�o�r�i�n�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�i�d�o�q�u�e�e�n�,�N�i�d�o�q�u�e�e�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�i�d�o�r�i�n�o�,�N�i�d�o�r�i�n�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�i�d�o�k�i�n�g�,�N�i�d�o�k�i�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�l�e�f�a�i�r�y�,�C�l�e�f�a�i�r�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�l�e�f�a�b�l�e�,�C�l�e�f�a�b�l�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�u�l�p�i�x�,�V�u�l�p�i�x�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�i�n�e�t�a�i�l�s�,�N�i�n�e�t�a�i�l�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�J�i�g�g�l�y�p�u�f�f�,�J�i�g�g�l�y�p�u�f�f�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�W�i�g�g�l�y�t�u�f�f�,�W�i�g�g�l�y�t�u�f�f�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�Z�u�b�a�t�,�Z�u�b�a�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�o�l�b�a�t�,�G�o�l�b�a�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�O�d�d�i�s�h�,�O�d�d�i�s�h�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�l�o�o�m�,�G�l�o�o�m�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�i�l�e�p�l�u�m�e�,�V�i�l�e�p�l�u�m�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�a�r�a�s�,�P�a�r�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�a�r�a�s�e�c�t�,�P�a�r�a�s�e�c�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�e�n�o�n�a�t�,�V�e�n�o�n�a�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�e�n�o�m�o�t�h�,�V�e�n�o�m�o�t�h�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�i�g�l�e�t�t�,�D�i�g�l�e�t�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�u�g�t�r�i�o�,�D�u�g�t�r�i�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�e�o�w�t�h�,�M�e�o�w�t�h�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�e�r�s�i�a�n�,�P�e�r�s�i�a�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�s�y�d�u�c�k�,�P�s�y�d�u�c�k�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�o�l�d�u�c�k�,�G�o�l�d�u�c�k�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�n�k�e�y�,�M�a�n�k�e�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�r�i�m�e�a�p�e�,�P�r�i�m�e�a�p�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�r�o�w�l�i�t�h�e�,�G�r�o�w�l�i�t�h�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�r�c�a�n�i�n�e�,�A�r�c�a�n�i�n�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�o�l�i�w�a�g�,�P�o�l�i�w�a�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�o�l�i�w�h�i�r�l�,�P�o�l�i�w�h�i�r�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�o�l�i�w�r�a�t�h�,�P�o�l�i�w�r�a�t�h�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�b�r�a�,�A�b�r�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�a�d�a�b�r�a�,�K�a�d�a�b�r�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�l�a�k�a�z�a�m�,�A�l�a�k�a�z�a�m�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�c�h�o�p�,�M�a�c�h�o�p�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�c�h�o�k�e�,�M�a�c�h�o�k�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�c�h�a�m�p�,�M�a�c�h�a�m�p�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�e�l�l�s�p�r�o�u�t�,�B�e�l�l�s�p�r�o�u�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�W�e�e�p�i�n�b�e�l�l�,�W�e�e�p�i�n�b�e�l�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�i�c�t�r�e�e�b�e�l�,�V�i�c�t�r�e�e�b�e�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�e�n�t�a�c�o�o�l�,�T�e�n�t�a�c�o�o�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�e�n�t�a�c�r�u�e�l�,�T�e�n�t�a�c�r�u�e�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�e�o�d�u�d�e�,�G�e�o�d�u�d�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�r�a�v�e�l�e�r�,�G�r�a�v�e�l�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�o�l�e�m�,�G�o�l�e�m�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�o�n�y�t�a�,�P�o�n�y�t�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�a�p�i�d�a�s�h�,�R�a�p�i�d�a�s�h�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�l�o�w�p�o�k�e�,�S�l�o�w�p�o�k�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�l�o�w�b�r�o�,�S�l�o�w�b�r�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�g�n�e�m�i�t�e�,�M�a�g�n�e�m�i�t�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�g�n�e�t�o�n�,�M�a�g�n�e�t�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�F�a�r�f�e�t�c�h�'�d�,�F�a�r�f�e�t�c�h�'�d�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�o�d�u�o�,�D�o�d�u�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�o�d�r�i�o�,�D�o�d�r�i�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�e�e�l�,�S�e�e�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�e�w�g�o�n�g�,�D�e�w�g�o�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�r�i�m�e�r�,�G�r�i�m�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�u�k�,�M�u�k�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�h�e�l�l�d�e�r�,�S�h�e�l�l�d�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�l�o�y�s�t�e�r�,�C�l�o�y�s�t�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�a�s�t�l�y�,�G�a�s�t�l�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�a�u�n�t�e�r�,�H�a�u�n�t�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�e�n�g�a�r�,�G�e�n�g�a�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�O�n�i�x�,�O�n�i�x�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�r�o�w�z�e�e�,�D�r�o�w�z�e�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�y�p�n�o�,�H�y�p�n�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�r�a�b�b�y�,�K�r�a�b�b�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�i�n�g�l�e�r�,�K�i�n�g�l�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�o�l�t�o�r�b�,�V�o�l�t�o�r�b�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�l�e�c�t�r�o�d�e�,�E�l�e�c�t�r�o�d�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�x�e�g�g�c�u�t�e�,�E�x�e�g�g�c�u�t�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�x�e�g�g�u�t�o�r�,�E�x�e�g�g�u�t�o�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�u�b�o�n�e�,�C�u�b�o�n�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�r�o�w�a�k�,�M�a�r�o�w�a�k�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�i�t�m�o�n�l�e�e�,�H�i�t�m�o�n�l�e�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�i�t�m�o�n�c�h�a�n�,�H�i�t�m�o�n�c�h�a�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�L�i�c�k�i�t�u�n�g�,�L�i�c�k�i�t�u�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�o�f�f�i�n�g�,�K�o�f�f�i�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�W�e�e�z�i�n�g�,�W�e�e�z�i�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�h�y�h�o�r�n�,�R�h�y�h�o�r�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�h�y�d�o�n�,�R�h�y�d�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�h�a�n�s�e�y�,�C�h�a�n�s�e�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�a�n�g�e�l�a�,�T�a�n�g�e�l�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�a�n�g�a�s�k�h�a�n�,�K�a�n�g�a�s�k�h�a�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�o�r�s�e�a�,�H�o�r�s�ė�j�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�e�e�d�r�a�,�S�y�d�r�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�o�l�d�e�e�n�,�G�o�l�d�e�e�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�e�a�k�i�n�g�,�S�e�a�k�i�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�t�a�r�y�u�,�S�t�a�r�y�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�t�a�r�m�i�e�,�S�t�a�r�m�i�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�r�.� �M�i�m�e�,�M�r�.� �M�i�m�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�c�y�t�h�e�r�,�S�c�y�t�h�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�J�y�n�x�,�J�y�n�x�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�l�e�c�t�a�b�u�z�z�,�E�l�e�c�t�a�b�u�z�z�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�g�m�a�r�,�M�a�g�m�a�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�n�s�i�r�,�P�i�n�s�i�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�a�u�r�o�s�,�T�a�u�r�o�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�g�i�k�a�r�p�,�M�e�d�ž�i�k�a�r�p�i�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�y�a�r�a�d�o�s�,�G�i�e�r�a�d�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�L�a�p�r�a�s�,�L�a�p�r�a�s�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�i�t�t�o�,�D�i�t�t�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�e�v�e�e�,�E�e�v�e�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�V�a�p�o�r�e�o�n�,�V�a�p�o�r�e�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�J�o�l�t�e�o�n�,�J�o�l�t�e�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�F�l�a�r�e�o�n�,�F�l�a�r�e�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�o�r�y�g�o�n�,�P�o�r�y�g�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�O�m�a�n�y�t�e�,�O�m�a�n�y�t�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�O�m�a�s�t�a�r�,�O�m�a�s�t�a�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�a�b�u�t�o�,�K�a�b�u�t�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�a�b�u�t�o�p�s�,�K�a�b�u�t�o�p�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�e�r�o�d�a�c�t�y�l�,�A�e�r�o�d�a�c�t�y�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�n�o�r�l�a�x�,�S�n�o�r�l�a�x�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�r�t�i�c�u�n�o�,�A�r�t�i�c�u�n�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�Z�a�p�d�o�s�,�Z�a�p�d�o�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�o�l�t�r�e�s�,�M�o�l�t�r�e�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�r�a�t�i�n�i�,�D�r�a�t�i�n�i�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�r�a�g�o�n�a�i�r�,�D�r�a�g�o�n�e�i�r�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�r�a�g�o�n�i�t�e�,�D�r�a�g�o�n�i�t�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�e�w�t�w�o�,�M�e�w�t�w�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�e�w�,�M�e�w�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�h�i�k�o�r�i�t�a�,�Č�i�k�o�r�i�t�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�a�y�l�e�e�f�,�B�e�i�l�y�f�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�e�g�a�n�i�u�m�,�M�e�g�a�n�i�u�m�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�y�n�d�a�q�u�i�l�,�S�i�n�d�a�k�v�i�l�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�Q�u�i�l�a�v�a�,�K�v�i�l�a�v�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�y�p�h�l�o�s�i�o�n�,�T�y�p�s�o�n�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�o�t�o�d�i�l�e�,�T�o�t�o�d�a�i�l�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�r�o�c�o�n�a�w�,�K�r�o�k�o�n�a�v�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�F�e�r�a�l�i�g�a�t�r�,�F�e�r�a�l�i�g�a�t�o�r�i�u�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�e�n�t�r�e�t�,�S�e�n�t�r�e�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�F�u�r�r�e�t�,�F�u�r�r�e�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�o�o�t�h�o�o�t�,�H�o�o�t�h�o�o�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�o�c�t�o�w�l�,�N�a�k�t�a�u�l�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�L�e�d�y�b�a�,�L�e�d�y�b�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�L�e�d�i�a�n�,�L�e�d�i�j�a�n�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�p�i�n�a�r�a�k�,�S�p�i�n�a�r�a�k�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�r�i�a�d�o�s�,�A�r�i�j�a�d�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�r�o�b�a�t�,�K�r�o�b�a�t�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�h�i�n�c�h�o�u�,�C�h�i�n�c�h�o�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�L�a�n�t�u�r�n�,�L�a�n�t�u�r�n�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�c�h�u�,�P�i�č�i�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�l�e�f�f�a�,�C�l�e�f�f�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�I�g�g�l�y�b�u�f�f�,�I�g�g�l�y�b�u�f�f�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�o�g�e�p�i�,�T�o�g�e�p�i�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�o�g�e�t�i�c�,�T�o�g�e�t�i�k�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�N�a�t�u�,�N�a�t�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�X�a�t�u�,�X�a�t�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�r�e�e�p�,�M�a�r�y�p�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�F�l�a�a�f�f�y�,�F�l�a�f�i�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�m�p�h�a�r�o�s�,�A�m�p�f�a�r�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�e�l�l�o�s�s�o�m�,�B�e�l�l�o�s�s�o�m�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�r�i�l�l�,�M�a�r�i�l�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�z�u�m�a�r�i�l�l�,�A�z�u�m�a�r�i�l�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�u�d�o�w�o�o�d�o�,�S�u�d�o�w�o�o�d�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�o�l�i�t�o�e�d�,�P�o�l�i�t�o�e�d�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�o�p�p�i�p�,�H�o�p��i�p�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�k�i�p�l�o�o�m�,�S�k�i�p�l��o�m�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�J�u�m�p�l�u�f�f�,�D�ž�a�m�p�l�a�f�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�A�i�p�o�m�,�A�i�p�o�m�a�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�u�n�k�e�r�n�,�S�u�n�k�e�r�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�u�n�f�l�o�r�a�,�S�u�n�f�l�o�r�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�Y�a�n�m�a�,�Y�a�n�m�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�W�o�o�p�e�r�,�W�o�o�p�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�Q�u�a�g�s�i�r�e�,�Q�u�a�g�s�i�r�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�s�p�e�o�n�,�E�s�p�e�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�U�m�b�r�e�o�n�,�U�m�b�r�e�o�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�u�r�k�r�o�w�,�M�u�r�k�r�o�w�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�l�o�w�k�i�n�g�,�S�l�o�w�k�i�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�i�s�d�r�e�a�v�u�s�,�M�i�s�d�r�e�a�v�u�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�U�n�o�w�n�,�U�n�o�w�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�W�o�b�b�u�f�f�e�t�,�W�o�b�b�u�f�f�e�t�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�i�r�a�f�a�r�i�g�,�G�i�r�a�f�a�r�i�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�n�e�c�o�,�P�i�n�e�c�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�F�o�r�r�e�t�r�e�s�s�,�F�o�r�r�e�t�r�e�s�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�u�n�s�p�a�r�c�e�,�D�u�n�s�p�a�r�c�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�l�i�g�a�r�,�G�l�i�g�a�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�t�e�e�l�i�x�,�S�t�e�e�l�i�x�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�n�u�b�b�u�l�l�,�S�n�u�b�b�u�l�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�G�r�a�n�b�u�l�l�,�G�r�a�n�b�u�l�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�Q�w�i�l�f�i�s�h�,�Q�w�i�l�f�i�s�h�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�c�i�z�o�r�,�S�c�i�z�o�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�h�u�c�k�l�e�,�S�h�u�c�k�l�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�e�r�a�c�r�o�s�s�,�H�e�r�a�c�r�o�s�s�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�n�e�a�s�e�l�,�S�n�e�a�s�e�l�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�e�d�d�i�u�r�s�a�,�T�e�d�d�i�u�r�s�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�U�r�s�a�r�i�n�g�,�U�r�s�a�r�i�n�g�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�l�u�g�m�a�,�S�l�u�g�m�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�g�c�a�r�g�o�,�M�a�g�c�a�r�g�o�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�w�i�n�u�b�,�S�w�i�n�u�b�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�i�l�o�s�w�i�n�e�,�P�i�l�o�s�w�i�n�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�o�r�s�o�l�a�,�C�o�r�s�o�l�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�e�m�o�r�a�i�d�,�R�e�m�o�r�a�i�d�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�O�c�t�i�l�l�e�r�y�,�O�c�t�i�l�l�e�r�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�e�l�i�b�i�r�d�,�D�e�l�i�b�i�r�d�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�n�t�i�n�e�,�M�a�n�t�i�n�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�k�a�r�m�o�r�y�,�S�k�a�r�m�o�r�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�o�u�n�d�o�u�r�,�H�o�u�n�d�o�u�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�o�u�n�d�o�o�m�,�H�o�u�n�d�o�o�m�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�K�i�n�g�d�r�a�,�K�i�n�g�d�r�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�h�a�n�p�y�,�P�h�a�n�p�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�D�o�n�p�h�a�n�,�D�o�n�p�h�a�n�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�o�r�y�g�o�n�2�,�P�o�r�y�g�o�n�2�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�t�a�n�t�l�e�r�,�S�t�a�n�t�l�e�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�m�e�a�r�g�l�e�,�S�m�e�a�r�g�l�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�y�r�o�g�u�e�,�T�y�r�o�g�u�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�i�t�m�o�n�t�o�p�,�H�i�t�m�o�n�t�o�p�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�m�o�o�c�h�u�m�,�S�m�o�o�c�h�u�m�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�l�e�k�i�d�,�E�l�e�k�i�d�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�a�g�b�y�,�M�a�g�b�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�M�i�l�t�a�n�k�,�M�i�l�t�a�n�k�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�B�l�i�s�s�e�y�,�B�l�i�s�s�e�y�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�R�a�i�k�o�u�,�R�a�i�k�o�u�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�E�n�t�e�i�,�E�n�t�e�i�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�S�u�i�c�u�n�e�,�S�u�i�c�u�n�e�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�L�a�r�v�i�t�a�r�,�L�a�r�v�i�t�a�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�P�u�p�i�t�a�r�,�P�u�p�i�t�a�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�T�y�r�a�n�i�t�a�r�,�T�y�r�a�n�i�t�a�r�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�L�u�g�i�a�,�L�u�g�i�a�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�H�o�-�O�h�,�H�o�-�O�h�
+�
+�p�o�k�e�m�o�n�_�n�a�m�e�_�C�e�l�e�b�i�,�C�e�l�e�b�i�
+�
+�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�
+�
+�S�t�o�r�y� �t�r�a�n�s�l�a�t�i�o�n�:�
+�
+�-�-�-�
+�
+�N�e�w� �B�a�r�k� �T�o�w�n�:�
+�
+�-�-�-�
+�
+�b�a�r�k�t�o�w�n�.�d�a�t�:�
+�
+�-�-�-�
+�
+�b�a�r�k�t�o�w�n�_�p�l�a�y�e�r�_�h�o�u�s�e�,�<�p�l�a�y�e�r�n�a�m�e�>�'�s� �H�o�u�s�e�
